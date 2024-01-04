@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "deploy": "gh-pages -d .next"
+    "deploy": "gh-pages -d out"
   },
   "dependencies": {
     "fs": "^0.0.1-security",
